@@ -1,0 +1,22 @@
+{
+  "stories": [
+    {
+      "identifier": "The Mystery of the Moon Flower",
+      "version": 1,
+      "isLocal": true,
+      "bundleUrl": ""
+    },
+    {
+      "identifier": "Thief Donkey",
+      "version": 1,
+      "isLocal": true,
+      "bundleUrl": ""
+    },
+    {
+      "identifier": "Blue Fox",
+      "version": 1,
+      "isLocal": false,
+      "bundleUrl": "https://raw.githubusercontent.com/Bhavanikumar-dev/MyStoryAppAssets/main/ServerData/Bundles/blue_fox.bundle"
+    }
+  ]
+}
