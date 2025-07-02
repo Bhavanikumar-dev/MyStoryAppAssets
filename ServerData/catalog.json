@@ -1,6 +1,12 @@
 {
   "previewBundleUrl": "https://raw.githubusercontent.com/Bhavanikumar-dev/MyStoryAppAssets/main/ServerData/Bundles/preview_bundle.bundle",
   "stories": [
+     {
+      "identifier": "Babu and the Ringing Monkey",
+      "version": 1,
+      "isLocal": true,
+      "bundleUrl": ""
+    },
     {
       "identifier": "The Mystery of the Moon Flower",
       "version": 1,
