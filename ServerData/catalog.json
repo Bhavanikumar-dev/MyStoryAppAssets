@@ -18,6 +18,16 @@
       "bundleUrl": ""
     },
     {
+      "identifier": "The Parrot Who Told the Truth",
+      "version": 1,
+      "bundleUrl": ""
+    },
+    {
+      "identifier": "The Golden Mango Tree",
+      "version": 1,
+      "bundleUrl": ""
+    },
+    {
       "identifier": "Blue Fox",
       "version": 1,
       "bundleUrl": "https://raw.githubusercontent.com/Bhavanikumar-dev/MyStoryAppAssets/main/ServerData/Bundles/blue_fox.bundle"
