@@ -55,7 +55,7 @@
     {
       "identifier": "Blue Fox",
       "version": 1,
-      "bundleUrl": ""
+      "bundleUrl": "https://raw.githubusercontent.com/Bhavanikumar-dev/MyStoryAppAssets/main/ServerData/Bundles/blue_fox.bundle"
     }
   ]
 }
